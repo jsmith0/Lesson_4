@@ -79,5 +79,12 @@ public class Main {
         //when working with integers the computer will truncate (cut away the decimal)
         // doesn't round... it just cuts off
 
+        //LESSON 5
+        double q = 29.78;
+        int w = (int)p;
+        //"casting" q as an integer
+        //converts it over to an integer
+
+
     }
 }
