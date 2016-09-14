@@ -85,6 +85,9 @@ public class Main {
         //"casting" q as an integer
         //converts it over to an integer
 
-
+        final double taxrate = .06;
+        //this makes the double never ever change
+        //why would this be smart???
+        //its a control thing
     }
 }
